@@ -23,7 +23,7 @@
         <li class="nav-item">
             <a href="{{ route('users.create') }}" class="nav-link">
                 <i class="fas fa-user"></i>
-                Users
+                Create Users
             </a>
         </li>
         <li class="nav-item">
